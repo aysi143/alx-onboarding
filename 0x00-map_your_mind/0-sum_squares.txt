@@ -1,0 +1,9 @@
+Algorithm for adding two two square numbers.
+
+Step 1: Start
+Step 2: Declare variables sqr11, sqr2 and sum.
+Step 3: Read values for sqr1, sqr2.
+Step 4: Add sqr1 and sqr2 and assign the result to a variable sum.
+Step 5: Display sum
+Step 6: Stop
+

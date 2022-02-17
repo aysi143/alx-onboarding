@@ -1,0 +1,10 @@
+int num
+int sum =0;
+function running_sum(num){
+       while true read number
+               if (number is greater than or equal to 0)
+                    sum = sum plus number
+              else print sum
+}
+
+running_sum()

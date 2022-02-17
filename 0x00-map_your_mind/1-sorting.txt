@@ -1,0 +1,10 @@
+Algorithm for reading in three numbers and writes them all in sorted order.
+
+Step 1: Start
+Step 2: Declare variables num1, num2,num3 and an empty array.
+Step 3: Read values for num1, num2 and num3..
+Step 4: Add the numbers in the empty array.
+Step 5: sort the numbers in an array / list.
+Step 6: display the elements in array
+Step 7: Stop
+
